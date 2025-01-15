@@ -4,7 +4,7 @@ A Python-based library management system that allows users to perform essential 
 
 ## Features
 
-- Add Books**: Easily add new books to the library database.
+- Add Books: Easily add new books to the library database.
 - Borrow Books: Borrow available books with automated tracking of borrowed status.
 - Return Books: Return borrowed books to update their availability.
 - Search Books: Search for books by title, author, or category.
