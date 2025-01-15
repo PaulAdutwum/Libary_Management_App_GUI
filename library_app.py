@@ -12,7 +12,7 @@ class LibraryManagement:
         self.cursor = self.conn.cursor()
         self.create_table()
 
-        # GUI Components
+      
         self.setup_gui()
 
     def create_table(self):
@@ -142,7 +142,7 @@ class LibraryManagement:
         self.conn.close()
 
 
-# Initialize the application
+
 if __name__ == "__main__":
     root = Tk()
     app = LibraryManagement(root)
