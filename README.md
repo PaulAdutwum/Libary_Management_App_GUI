@@ -5,12 +5,12 @@ A Python-based library management system that allows users to perform essential 
 ## Features
 
 - Add Books**: Easily add new books to the library database.
-- Borrow Books**: Borrow available books with automated tracking of borrowed status.
-- Return Books**: Return borrowed books to update their availability.
-- Search Books**: Search for books by title, author, or category.
-- View All Books**: Display a complete list of all books in the library.
-- Database Integration**: Persistent storage using SQLite to ensure data consistency.
-- User-Friendly GUI**: Intuitive graphical interface built with Tkinter.
+- Borrow Books: Borrow available books with automated tracking of borrowed status.
+- Return Books: Return borrowed books to update their availability.
+- Search Books: Search for books by title, author, or category.
+- View All Books: Display a complete list of all books in the library.
+- Database Integration: Persistent storage using SQLite to ensure data consistency.
+- User-Friendly GUI: Intuitive graphical interface built with Tkinter.
 
 ## Technologies Used
 
