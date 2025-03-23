@@ -2,7 +2,7 @@
 
 A Python-based library management system that allows users to perform essential library operations, such as adding, borrowing, returning, and searching for books. This project includes a user-friendly GUI built with Tkinter and uses SQLite as the database for managing library data.
 
-## Features
+# Features
 
 - Add Books: Easily add new books to the library database.
 - Borrow Books: Borrow available books with automated tracking of borrowed status.
@@ -12,7 +12,7 @@ A Python-based library management system that allows users to perform essential 
 - Database Integration: Persistent storage using SQLite to ensure data consistency.
 - User-Friendly GUI: Intuitive graphical interface built with Tkinter.
 
-## Technologies Used
+# Technologies Used
 
 - Programming Language: Python
 - Database: SQLite
