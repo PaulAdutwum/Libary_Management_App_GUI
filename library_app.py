@@ -26,6 +26,7 @@ class LibraryManagement:
 
     def setup_gui(self):
         """Set up the graphical user interface."""
+        
         # Labels and Entry Fields
         Label(self.root, text="Title:").grid(row=0, column=0, padx=10, pady=5)
         self.title_var = StringVar()
@@ -94,6 +95,7 @@ class LibraryManagement:
                 self.conn.commit()
                 self.view_all_books()
                 messagebox.showinfo("Success", f'You have returned "{title}".')
+                
 
     def search_book(self):
         """Search for books based on title or author."""
